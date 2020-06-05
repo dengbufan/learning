@@ -1,0 +1,58 @@
+{
+  "id": "1842631",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "759681",
+      "name": "arrow",
+      "font_class": "circle-right",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "902005",
+      "name": "arrow down",
+      "font_class": "arrowdown",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1350461",
+      "name": "sq-home",
+      "font_class": "icons-",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8642071",
+      "name": "HOME MESSAGE",
+      "font_class": "HOMEMESSAGE",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "9080585",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "10561800",
+      "name": "Arrow, mixing",
+      "font_class": "Arrowmixing",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "11982639",
+      "name": "Arrow, right, next",
+      "font_class": "Arrowrightnext",
+      "unicode": "e9cc",
+      "unicode_decimal": 59852
+    }
+  ]
+}
